@@ -3,7 +3,7 @@ This is my try of using Kaggle dataset of Human Resources Analytics. The dataset
 
 The dependencies I used are
 
-Pandas
-Numpy
-Sklearn
+1. Pandas
+2. Numpy
+3. Sklearn
 I would love to see if any of u can make it more better.
